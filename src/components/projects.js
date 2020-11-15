@@ -29,7 +29,7 @@ class Projects extends Component {
 
                     <Button type="button" onClick={(e) => {
                         e.preventDefault();
-                        window.location.href='https://jrowdy.github.io/Password-Generator/password.html';
+                        window.location.href='https://jrowdy.github.io/Scheduler';
                         }}
                         colored> Live App
                     </Button>
@@ -173,7 +173,7 @@ class Projects extends Component {
         <div> 
             {/* Motivate Me*/}
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/58674083/84715507-a3d99400-af3e-11ea-958e-0e1aa019c808.png)center /cover'}}> Motivate Me
+                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/58674083/84715507-a3d99400-af3e-11ea-958e-0e1aa019c808.png)center /cover'}}>
                 </CardTitle>
                     <CardText>
                      <br/>

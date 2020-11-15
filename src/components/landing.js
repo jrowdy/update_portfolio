@@ -31,7 +31,7 @@ class Landing extends Component {
                             </a>
 
                             {/* Resume */}
-                            <a href="https://drive.google.com/file/d/11joY8S9JQ4tzCvcymhoD627G-lgwACte/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                            <a href="https://drive.google.com/file/d/1fdSiWkLKeUJooGiMgp0T6HTOUy2OGAID/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                             <i class="fa fa-file-pdf-o" aria-hidden="true"  />
                             </a>
                             
